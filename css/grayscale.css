@@ -86,6 +86,10 @@
   }
 }
 
+.myDiv {
+  background: black;
+}
+
 .masthead {
   position: relative;
   width: 100%;
